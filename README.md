@@ -73,6 +73,10 @@ Using your preferred ESLint rules, lint your project with the `npm run lint .` c
 
 Refactor the application to correctly handle arithmetic expressions that contain more than one operator.
 
+## Bonus
+
+Once you're satisfied, find a classmate and see if that person would like some help.
+
 ## Solution
 
 The [solution](https://github.com/gSchool/wd-react-calculator-solution) is available to instructors as well as students who've completed this assignment.
