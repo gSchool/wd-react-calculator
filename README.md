@@ -1,3 +1,20 @@
+# DEPRECATED: 
+
+This repo has moved to https://github.com/gschool/react-drills
+
+```
+
+
+
+
+
+
+
+
+
+
+```
+
 # React Calculator
 
 For this assignment, your task is to build a React calculator application that performs basic arithmetic. Start by forking and cloning this repository to your development environment. Then, using the provided [template files](template) and _without_ using the `eval()` function, create a React calculator application that performs multiplication.
